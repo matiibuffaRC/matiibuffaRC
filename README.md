@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Me gusta brindar soluciones útiles y visualmente estéticas.<br>📚 Estoy en mi cuarto año de ingeniería.<br>🎯 Mis objetivos es poder conseguir mi primer trabajo para desenvolverme en un grupo de trabajo.</p>
+<p align="left">✨ Me gusta brindar soluciones útiles y visualmente agradables.<br>📚 Estoy en mi cuarto año de ingeniería.<br>🎯 Mis objetivos es poder conseguir mi primer trabajo para desenvolverme en un grupo de trabajo.</p>
 
 ###
 
