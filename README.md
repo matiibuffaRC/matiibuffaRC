@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mi nombre es Matías Buffa y soy de Córdoba, Argentina. Desarrollador frontend con proyección a fullstack y estudiante de Ingeniería en Sistemas de Información en UTN. Actualmente me encuentro sin trabajo y en busqueda de mi primer experiencia laboral en una empresa del rubro IT.</p>
+<p align="left">Mi nombre es Matías Buffa y soy de Córdoba, Argentina. Desarrollador frontend con proyección a fullstack y estudiante de Ingeniería en Sistemas de Información en UTN. Actualmente me encuentro sin trabajo y en busqueda de mi primer experiencia laboral en una empresa del rubro IT para desenvolverme en un entorno de trabajo en grupo y poder poner en práctica mis conocimientos así como también aprender de lo que me puedan aportar los demás.</p>
 
 ###
 
