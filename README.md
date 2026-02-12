@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Me gusta brindar soluciones útiles y visualmente agradables.<br>📚 Estoy en mi cuarto año de ingeniería y aprendiendo sobre desarrollo web de manera autodidacta y paralela.<br>🎯 Mis objetivos es poder conseguir mi primer trabajo para desenvolverme en un grupo de trabajo y empezar a obtener experiencia en el rubro IT.</p>
+<p align="left">✨ Me gusta brindar soluciones útiles y visualmente agradables.<br>📚 Estoy en mi cuarto año de ingeniería y aprendiendo sobre desarrollo web de manera autodidacta y paralela.<br>🎯 Mi objetivo es poder conseguir mi primer trabajo para poder desenvolverme en un grupo de trabajo y empezar a obtener experiencia en el rubro IT.</p>
 
 ###
 
