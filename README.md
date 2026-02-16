@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Tecnologías con las que trabajo</h2>
+<h2 align="left">Tecnologías con las que trabajo:</h2>
 
 ###
 
