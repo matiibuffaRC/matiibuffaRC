@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Soy Matías Buffa, oriundo de Córdoba, Argentina. Desarrollador web con enfoque frontend (por ahora) y estudiante de Ingeniería en Sistemas de Información en UTN. Actualmente me encuentro sin trabajo y en busqueda de mi primer experiencia laboral en una empresa del rubro IT para desenvolverme en un entorno de trabajo en grupo y poder poner en práctica mis conocimientos así como también aprender de lo que me puedan aportar los demás.</p>
+<p align="left">Soy Matías Buffa, oriundo de Córdoba, Argentina. Desarrollador web con enfoque fullstack y estudiante de Ingeniería en Sistemas de Información en UTN. Actualmente me encuentro sin trabajo y en busqueda de mi primer experiencia laboral en una empresa del rubro IT para desenvolverme en un entorno de trabajo grupal y poder poner en práctica mis conocimientos así como también aprender de lo que me puedan aportar los demás.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Me gusta brindar soluciones útiles y visualmente agradables.<br>📚 Estoy en mi cuarto año de ingeniería y aprendiendo sobre desarrollo web de manera autodidacta y paralela.<br>🎯 Mi objetivo es poder conseguir mi primer trabajo para poder desenvolverme en un grupo de trabajo y empezar a obtener experiencia en el rubro IT.</p>
+<p align="left">✨ Me gusta brindar soluciones útiles y visualmente agradables.<br>📚 Estoy en mi cuarto año de ingeniería y aprendiendo sobre desarrollo web de manera autodidacta y paralela.<br>🎯 Mi objetivo es poder conseguir mi primer trabajo para obtener experiencia en el rubro IT.</p>
 
 ###
 
