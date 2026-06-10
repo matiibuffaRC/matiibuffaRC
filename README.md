@@ -3,14 +3,14 @@
 ###
 
 <p align="left">
-  💻 Soy desarrollador Full Stack.
+    💻 Soy desarrollador Full Stack.
 
-  🚀 Actualmente busco oportunidades part-time para aplicar mis conocimientos y seguir creciendo como dev.
+    🚀 Actualmente busco oportunidades part-time para aplicar mis conocimientos y seguir creciendo como dev.
 
-  👨‍🎓 Estoy estudiando Ingeniería en Sistemas en Argentina.
-
-  🤝 Me interesa conectar con otros devs.</p>
-
+    👨‍🎓 Estoy estudiando Ingeniería en Sistemas en Argentina.
+  
+    🤝 Me interesa conectar con otros devs.</p>
+  
 ###
 
 <h2 align="left">Tecnologías con las que trabajo:</h2>
