@@ -11,7 +11,7 @@
         👨‍🎓 Estoy estudiando Ingeniería en Sistemas en Argentina.
         
         🤝 Me interesa conectar con otros devs.</p>
-  
+</p>
 ###
 
 <h2 align="left">Tecnologías con las que trabajo:</h2>
